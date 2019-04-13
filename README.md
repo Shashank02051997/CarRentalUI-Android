@@ -1,17 +1,18 @@
-# AlphaBankUI-Android
-Check out the new style for App Design aims for Banking Application...😉😀😁😎
+# CarRentalUI-Android
+Check out the new style for App Design aims for Car Rent...😉😀😁😎
 
 ## Screenshots
 
 **Please click the image below to enlarge.**
 
-<img src="https://github.com/Shashank02051997/AlphaBankUI-Android/blob/master/Screenshots/Screenshot_20190314-003606.png" height="600" width="300" hspace="40"><img src="https://github.com/Shashank02051997/AlphaBankUI-Android/blob/master/Screenshots/Screenshot_20190314-003610.png" height="600" width="300" hspace="40">
+<img src="https://github.com/Shashank02051997/CarRentalUI-Android/blob/master/Screenshots/Screenshot_20190413-150346.png" height="600" width="300" hspace="40"><img src="https://github.com/Shashank02051997/CarRentalUI-Android/blob/master/Screenshots/Screenshot_20190413-150350.png" height="600" width="300" hspace="40">
 
-<img src="https://github.com/Shashank02051997/AlphaBankUI-Android/blob/master/Screenshots/Screenshot_20190314-005254.png" height="600" width="300" hspace="40">
+<img src="https://github.com/Shashank02051997/CarRentalUI-Android/blob/master/Screenshots/Screenshot_20190413-150418.png" height="600" width="300" hspace="40"><img src="https://github.com/Shashank02051997/CarRentalUI-Android/blob/master/Screenshots/Screenshot_20190413-150423.png" height="600" width="300" hspace="40">
+
 ## Contributing
 
 Please fork this repository and contribute back using
-[pull requests](https://github.com/Shashank02051997/AlphaBankingUI-Android/pulls).
+[pull requests](https://github.com/Shashank02051997/CarRentalUI-Android-Android/pulls).
 
 Any contributions, large or small, major features, bug fixes, are welcomed and appreciated
 but will be thoroughly reviewed .
@@ -21,3 +22,5 @@ but will be thoroughly reviewed .
 - [Github](https://github.com/Shashank02051997)
 - [Linkedin](https://www.linkedin.com/in/shashank-singhal-a87729b5/)
 - [Facebook](https://www.facebook.com/shashanksinghal02)
+### Like our facebook page
+- [Android UI's Bucket](https://www.facebook.com/androiduisbucket)
