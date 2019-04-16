@@ -68,6 +68,7 @@
                         android:fontFamily="@font/calibri"
                         android:hint="What transport do you need?"
                         android:padding="12dp"
+                        android:textColor="#111111"
                         android:textColorHint="#9ea1b0" />
 
                     <ImageView
