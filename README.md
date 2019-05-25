@@ -12,7 +12,7 @@ Check out the new style for App Design aims for Car Rent...😉😀😁😎
 ## Contributing
 
 Please fork this repository and contribute back using
-[pull requests](https://github.com/Shashank02051997/CarRentalUI-Android-Android/pulls).
+[pull requests](https://github.com/Shashank02051997/CarRentalUI-Android/pulls).
 
 Any contributions, large or small, major features, bug fixes, are welcomed and appreciated
 but will be thoroughly reviewed .
